@@ -3,7 +3,7 @@ package main
 import (
 	"errors"
 	"fmt"
-	"./radix/redis"
+	"./redis"
 	"log"
 	"time"
 )
